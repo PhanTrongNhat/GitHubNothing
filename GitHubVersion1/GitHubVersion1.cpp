@@ -7,6 +7,12 @@
 int main()
 {
 	// Hello world comment
+	// We get a new change now (the second thing into staging area)
+	// Third things
+	// Forth things
+	//askjfl
+
+	std::cout << "one ";
     std::cout << "Hello World!\n"; 
 }
 
