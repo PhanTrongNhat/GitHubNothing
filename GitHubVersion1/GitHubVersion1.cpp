@@ -10,6 +10,7 @@ int main()
 
 	// Chang2
 	// Hello world comment
+	cout<<"May thang co ho noi t meo nghe gi ca :v\n";
 
 
 }
