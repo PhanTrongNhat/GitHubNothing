@@ -6,17 +6,12 @@
 
 int main()
 {
+	//thay doi cua tao
+
 	// Chang2
 	// Hello world comment
-	// We get a new change now (the second thing into staging area)
-	// Third things
-	// Forth things
-	//askjfl
 
-	// Good try
-	std::cout << "one ";
-    std::cout << "Hello World!\n"; 
-	// Change 1
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
