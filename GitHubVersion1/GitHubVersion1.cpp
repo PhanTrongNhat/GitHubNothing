@@ -6,7 +6,7 @@
 
 int main()
 {
-	// Thay doi cua Nhan
+	//thay doi cua tao
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
