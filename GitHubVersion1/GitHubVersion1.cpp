@@ -7,6 +7,11 @@
 int main()
 {
 	//thay doi cua tao
+
+	// Chang2
+	// Hello world comment
+
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
