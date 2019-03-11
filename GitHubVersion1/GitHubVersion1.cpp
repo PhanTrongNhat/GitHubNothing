@@ -6,20 +6,7 @@
 
 int main()
 {
-	// Chang2
-	// Hello world comment
-	// We get a new change now (the second thing into staging area)
-	// Third things
-	// Forth things
-	//askjfl
-// lkasjflasjlasjf
-	//jlksadjf
-	//jalksdfjasd/
-	
-
-	std::cout << "one ";
-    std::cout << "Hello World!\n"; 
-	// Change 1
+	// Thay doi cua Nhan
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
